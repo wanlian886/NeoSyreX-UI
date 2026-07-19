@@ -1,0 +1,24 @@
+//Hello, World!
+
+{
+ "format_version": 1,
+ "header": {
+  "description": "Hello, World!",
+  "name": "NeoSyre§l§r§cX§r§l UI",
+  "uuid": "44444444-4444-4444-4444-444444444444",
+  "version": [0, 0, 1 ],
+  "min_engine_version": [1, 2, 6]
+ },
+ "modules": [
+  {
+   "description": "",
+   "type": "resources",
+   "uuid": "55555555-5555-5555-5555-555555555555",
+   "version": [0, 0, 1]
+  }
+ ]
+}
+
+//NeoSyreX-Modern-UI
+//Manifest.Json
+//Dev-Flox
