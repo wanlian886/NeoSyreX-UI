@@ -1,0 +1,24 @@
+{
+ "content_panel": {
+  "modifications": [
+   {
+    "array_name": "controls",
+    "operation": "insert_front",
+    "value": [
+     {
+      "DICK@NeoSyreX-Modules|Watermark.WatermarkPanel": {}
+     },
+     {
+      "Zr@NeoSyreX-Modules|ZhangRong.ZhangRongContent": {}
+     }
+    ]
+   }
+  ]
+ }
+}
+
+//NeoSyreX-Modern-UI
+//Modules-Watermark
+//Support-Modules
+//SmallDICK-Samse
+//Dev-Flox

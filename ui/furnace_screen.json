@@ -1,0 +1,13 @@
+{
+ "furnace_screen@crafting.inventory_screen_base": {
+  "$ContainerName": "Furnace",
+  "$screen_content": "NeoSyreX-Screen|Furnace.FurnaceContent",
+  "$screen_bg_content": "NeoSyreX-Common|Container.NeoSyreX_Container_Background",
+  "$screen_animations": [
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Push",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Push"
+  ]
+ }
+}

@@ -1,0 +1,119 @@
+{
+  
+  //NeoSyreX-Vanilla
+  "$container_top_title": true,
+  
+  //NeoSyreX-UI
+  "$NeoSyreX_Debug": false,
+  "$NeoSyreX_Name": "NeoSyreX",
+  "$NeoSyreX_Version": "1.0.0",
+  "$NeoSyreX_AntiPocket": true,
+  "$NeoSyreX_Textures_Shadow": true,
+  "$NeoSyreX_Global_FontType": "OldSmoothFont",
+  "$NeoSyreX_User_Client_Name": "NeoSyreX Client",
+  "$NeoSyreX_Client_Dev_Name": "Flox",
+  "$NeoSyreX_Fillet_Texture_Degree": 15,
+  "$NeoSyreX_Global_Font_Shadow": true,
+  "$NeoSyreX_Global_Z_Font_Color": [1.0, 1.0, 1.0],
+  "$NeoSyreX_Global_F_Font_Color": [0.0, 0.0, 0.0],
+  "$NeoSyreX_Layout_Customization": true,
+  "$NeoSyreX_AntiPocket_BindingName": "#hotbar_visible_not_centered",
+  
+  //NeoSyreX-Modules
+    //Watermark
+    "$NeoSyreX_Watermark_Ignored": true,
+    "$NeoSyreX-Watermark:Speed": 1.129,
+    "$NeoSyreX-Watermark:Alpha": 0.15,
+    "$NeoSyreX-Watermark:Size": "normal",
+    "$NeoSyreX-Watermark:ScaleFactor": 1.0,
+    
+    //InventoryDisplay
+    "$NeoSyreX_Inventory_Ignored": true,
+    "$NeoSyreX-Inventory:Text": "Inventory-Display",
+    "$NeoSyreX-Inventory:TextColor": [1.0, 1.0, 1.0],
+    "$NeoSyreX-Inventory:TextStrokeColor": [0, 0, 0],
+    "$NeoSyreX-Inventory:IconColor": [1.0, 1.0, 1.0],
+    "$NeoSyreX-Inventory:IconStrokeColor": [0.0, 0.0, 0.0],
+    
+  //NeoSyreX-Hud
+    //Theme
+    "$NeoSyreX_Theme_Hud_Hotbar_Select_Image_Alpha": 0.89,
+    "$NeoSyreX_Theme_Hud_Hotbar_Select_Image_Color": [1.0, 1.0, 1.0],
+    "$NeoSyreX_Theme_Hud_Empty_Exp_Progress_Alpha": 0.38943734,
+    "$NeoSyreX_Theme_Hud_Full_Exp_Progress_Alpha": 1.0,
+    "$NeoSyreX_Theme_Hud_Empty_Exp_Progress_Color": [0.0, 0.0, 0.0],
+    "$NeoSyreX_Theme_Hud_Full_Exp_Progress_Color": [1.0, 1.0, 1.0],
+    //Animations
+    "$NeoSyreX_Hud_Chat_Wait_Duration": 8,
+    "$NeoSyreX_Hud_Screen_Animations_Duration": 0.34,
+  
+  //NeoSyreX-Container
+    //Theme
+    "$NeoSyreX_Container_Default_Close_Icon_Color": [1.0, 1.0, 1.0],
+    "$NeoSyreX_Container_Hover_Close_Icon_Color": [0.0, 0.0, 0.0],
+    "$NeoSyreX_Container_Hover_Close_Bg_Alpha": 0.345,
+    "$NeoSyreX_Container_Hover_Close_Bg_Color": [0.0, 0.0, 0.0],
+    "$NeoSyreX_Container_Theme_Bg_Alpha": 0.326177,
+    "$NeoSyreX_Container_Theme_Bg_Color": [0.0, 0.0, 0.0],
+    "$NeoSyreX_Container_Theme_Icon_Color": [1.0, 1.0, 1.0],
+    "$NeoSyreX_Container_Theme_Icon_Alpha": 1.0,
+    "$NeoSyreX_Container_Enchanting_Button_Default_Color": [0.0, 0.0, 0.0],
+    "$NeoSyreX_Container_Enchanting_Button_Default_Alpha": 0.4317,
+    "$NeoSyreX_Container_Enchanting_Button_Hover_Color": [1.0, 1.0, 1.0],
+    "$NeoSyreX_Container_Enchanting_Button_Hover_Alpha": 0.4317,
+    "$NeoSyreX_Container_Theme_Edit_Box_Default_Bg_Color": [0.0, 0.0, 0.0],
+    "$NeoSyreX_Container_Theme_Edit_Box_Default_Bg_Alpha": 0.4317,
+    "$NeoSyreX_Container_Theme_Edit_Box_Hover_Bg_Color": [1.0, 1.0, 1.0],
+    "$NeoSyreX_Container_Theme_Edit_Box_Hover_Bg_Alpha": 0.4317,
+    "$NeoSyreX_Container_Theme_Tab_Toggle_Hover_Icon_Color": [0.0, 0.0, 0.0],
+    "$NeoSyreX_Container_Theme_Tab_Toggle_Default_Icon_Color": [1.0, 1.0, 1.0],
+    "$NeoSyreX_Container_Theme_Tab_Toggle_Layout_Hover_Color": [1.0, 1.0, 1.0],
+    "$NeoSyreX_Container_Theme_Tab_Toggle_Layout_Hover_Alpha": 0.3829876,
+    "$NeoSyreX_Container_Theme_Tab_Toggle_Bg_Alpha": 0.3129876,
+    "$NeoSyreX_Container_Theme_Brewing_Stand_Icon_Empty_Color": [0.0, 0.0, 0.0],
+    "$NeoSyreX_Container_Theme_Brewing_Stand_Icon_Empty_Alpha": 1.0,
+    "$NeoSyreX_Container_Theme_Brewing_Stand_Icon_Full_Color": [1.0, 1.0, 1.0],
+    "$NeoSyreX_Container_Theme_Brewing_Stand_Icon_Full_Alpha": 1.0,
+    //Animations
+    "$NeoSyreX_Container_Animations_Duration": 0.37927197,
+    //Config
+    "$NeoSyreX_Container_Double_Close_Button": true,
+  
+  //NeoSyreX-Basic Theme
+    //Color
+    "$NeoSyreX_Basic_Shadow_Texture_Color": [1.0, 1.0, 1.0],
+    "$NeoSyreX_Basic_Border_Texture_Middle_Color": [0.0, 0.0, 0.0],
+    "$NeoSyreX_Basic_Border_Texture_Top_Color": [1.0, 1.0, 1.0],
+    //Alpha
+    "$NeoSyreX_Basic_Shadow_Texture_Alpha": 0.5864,
+    "$NeoSyreX_Basic_Border_Texture_Middle_Alpha": 0.42943734,
+    "$NeoSyreX_Basic_Border_Texture_Top_Alpha": 1.0,
+  
+  //NeoSyreX-Basic Textures
+    //HaveJson Fillet Textures
+    "$Fillet10": ".NeoSyreX/Textures/Fillet/Fillet_10",
+    "$Fillet15": ".NeoSyreX/Textures/Fillet/Fillet_15",
+    "$Fillet20": ".NeoSyreX/Textures/Fillet/Fillet_20",
+    //NoJson Fillet Textures
+    "$NJFillet10": ".NeoSyreX/Textures/Fillet/NoJson/Fillet_10",
+    "$NJFillet15": ".NeoSyreX/Textures/Fillet/NoJson/Fillet_15",
+    "$NJFillet20": ".NeoSyreX/Textures/Fillet/NoJson/Fillet_20",
+    //Border Textures
+    "$Border10": ".NeoSyreX/Textures/Fillet/Border/Border_10",
+    "$Border15": ".NeoSyreX/Textures/Fillet/Border/Border_15",
+    "$Border20": ".NeoSyreX/Textures/Fillet/Border/Border_20",
+    //Fillet Shadow Textures
+    "$AShadow": ".NeoSyreX/Textures/Fillet/Shadow/AriaX-Shadow",
+    "$XSShadow": ".NeoSyreX/Textures/Fillet/Shadow/XoraSync-Shadow",
+    //Square Textures
+    "$White": ".NeoSyreX/Textures/Fillet/Square/White"
+  
+  
+  
+  
+  
+}
+                                                                                                              
+//NeoSyreX-Modern-UI
+//GlobalVariable.Json
+//Dev-Flox.

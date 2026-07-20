@@ -1,0 +1,57 @@
+{
+ "small_chest_screen@crafting.inventory_screen_base": {
+  "$ContainerName": "Chest",
+  "$screen_content": "NeoSyreX-Screen|Chest.ChestContent",
+  "$screen_bg_content": "NeoSyreX-Common|Container.NeoSyreX_Container_Background",
+  "$screen_animations": [
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Push",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Push"
+  ]
+ },
+ "large_chest_screen@crafting.inventory_screen_base": {
+  "$ContainerName": "LargeChest",
+  "$screen_content": "NeoSyreX-Screen|Chest.LargeChestContent",
+  "$screen_bg_content": "NeoSyreX-Common|Container.NeoSyreX_Container_Background",
+  "$screen_animations": [
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Push",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Push"
+  ]
+ },
+ "ender_chest_screen@crafting.inventory_screen_base": {
+  "$ContainerName": "EnderChest",
+  "$screen_content": "NeoSyreX-Screen|Chest.ChestContent",
+  "$screen_bg_content": "NeoSyreX-Common|Container.NeoSyreX_Container_Background",
+  "$screen_animations": [
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Push",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Push"
+  ]
+ },
+ "shulker_box_screen@crafting.inventory_screen_base": {
+  "$ContainerName": "ShulkerBox",
+  "$screen_content": "NeoSyreX-Screen|Chest.ChestContent",
+  "$screen_bg_content": "NeoSyreX-Common|Container.NeoSyreX_Container_Background",
+  "$screen_animations": [
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Push",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Push"
+  ]
+ },
+ "barrel_screen@crafting.inventory_screen_base": {
+  "$ContainerName": "Barrel",
+  "$screen_content": "NeoSyreX-Screen|Chest.ChestContent",
+  "$screen_bg_content": "NeoSyreX-Common|Container.NeoSyreX_Container_Background",
+  "$screen_animations": [
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Push",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Push"
+  ]
+ }
+}

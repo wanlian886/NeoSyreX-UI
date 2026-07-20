@@ -1,0 +1,44 @@
+{
+ "ui_defs": [
+  
+  //NeoSyreX-Library
+  ".lib.NeoSyreX",
+  ".NeoSyreX/Core/.Controls-Support-Library/.Lib.NeoSyreX",
+  ".NeoSyreX/Core/.Controls-Support-Library/.Animations.NeoSyreX",
+  
+  //NeoSyreX-GlobalModules
+  ".NeoSyreX/Core/.Global-Modules/Move-Watermark.NeoSyreX",
+  ".NeoSyreX/Core/.Global-Modules/GouTou-ZhangRong.NeoSyreX",
+  ".NeoSyreX/Core/Hud-Screen/Modules/InventoryDisplay.NeoSyreX",
+  ".NeoSyreX/Core/Hud-Screen/Modules/PlayerDoll.NeoSyreX",
+  ".NeoSyreX/Core/Hud-Screen/Modules/SessionInfo.NeoSyreX",
+  ".NeoSyreX/Core/Hud-Screen/Modules/AntiPocket.NeoSyreX",
+  ".NeoSyreX/Core/Hud-Screen/Modules/DynamicIsland.NeoSyreX",
+  ".NeoSyreX/Core/Hud-Screen/Modules/ScoreBoard.NeoSyreX",
+  ".NeoSyreX/Core/Container-Screen/Modules/JavaRecipeBook.NeoSyreX",
+  
+  //NeoSyreX-Screen
+  ".NeoSyreX/Core/Hud-Screen/Hud-Screen.NeoSyreX",
+  ".NeoSyreX/Core/MobEffect-Screen/MobEffect-Screen.NeoSyreX",
+  ".NeoSyreX/Core/Container-Screen/Inventory-Screen.NeoSyreX",
+  ".NeoSyreX/Core/Container-Screen/BrewingStand-Screen.json",
+  ".NeoSyreX/Core/Container-Screen/Furnace-Screen.NeoSyreX",
+  ".NeoSyreX/Core/Container-Screen/Enchanting-Screen.NeoSyreX",
+  ".NeoSyreX/Core/Container-Screen/Chest-Screen.NeoSyreX",
+  ".NeoSyreX/Core/Container-Screen/Anvil-Screen.NeoSyreX",
+  
+  //NeoSyreX-Screen Common
+  ".NeoSyreX/Core/Hud-Screen/.Common/Hud-Common.NeoSyreX",
+  ".NeoSyreX/Core/Container-Screen/.Common/Container-Common.NeoSyreX",
+  ".NeoSyreX/Core/Common-Lib/Common-Lib.NeoSyreX",
+  
+  //NeoSyreX-Screen Animations
+  ".NeoSyreX/Core/Hud-Screen/Animations/Animations.NeoSyreX",
+  ".NeoSyreX/Core/Container-Screen/Animations/Animations.NeoSyreX"
+  
+ ]
+}
+
+//NeoSyreX-Modern-UI
+//_UI_Defs.Json
+//Dev-Flox

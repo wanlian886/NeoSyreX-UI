@@ -1,0 +1,15 @@
+{
+ "hud_screen": {
+  "absorbs_input": false,
+  "always_accepts_input": true,
+  "is_showing_menu": false,
+  "low_frequency_rendering": true,
+  "send_telemetry": false,
+  "should_steal_mouse": true,
+  "$screen_content": "NeoSyreX-Common|Hud.Vanilla_Hud_Content"
+ }
+}
+
+//NeoSyreX-Modern-UI
+//Hud_Screen.Json
+//Dev-Flox

@@ -1,0 +1,13 @@
+{
+ "enchanting_screen@crafting.inventory_screen_base": {
+  "$ContainerName": "Enchanting",
+  "$screen_content": "NeoSyreX-Screen|Enchanting.EnchantingContent",
+  "$screen_bg_content": "NeoSyreX-Common|Container.NeoSyreX_Container_Background",
+  "$screen_animations": [
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Push",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Enter_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Pop",
+   "@NeoSyreX-Animations|Container.Container_Anim_Alpha_Exit_Push"
+  ]
+ }
+}
